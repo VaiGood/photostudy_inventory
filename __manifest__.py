@@ -1,5 +1,5 @@
 {
-    'name': "Aa test module",
+    'name': "Photostudy Inventory",
     'version': '1.0',
     'depends': ['base'],
     'author': "Author Name",
